@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleMyProfile</string>
+    <string name="city">Bandung, Jawa Barat</string>
+    <string name="postal_code">40394</string>
+</resources>
